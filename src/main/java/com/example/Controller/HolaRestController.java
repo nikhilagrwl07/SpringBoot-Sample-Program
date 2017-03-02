@@ -1,4 +1,4 @@
-package com.example;
+package com.example.Controller;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.web.bind.annotation.RequestMapping;
